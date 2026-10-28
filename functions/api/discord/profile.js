@@ -1,4 +1,4 @@
-const TARGET_USER_ID = '1391275957121192037';
+const TARGET_USER_ID = '866525979051819019';
 const DEFAULT_USERNAME = 'nlyny';
 const MAX_STALE_AGE = 8 * 60 * 1000;
 const VALID_STATUSES = new Set(['online', 'idle', 'dnd', 'offline']);
